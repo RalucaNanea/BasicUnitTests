@@ -1,0 +1,7 @@
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\bin\Debug\nunit.framework.dll
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\bin\Debug\nunit.framework.xml
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+c:\users\raluca.nanea\documents\visual studio 2013\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
